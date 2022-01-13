@@ -42,7 +42,7 @@ if ENABLE_INTENDED or ENABLE_COMPLIANCE:
             ),
         )
     )
-if ENABLE_INTENDED:
+
     datasource_contents.append(
         (
             "extras.gitrepository",
